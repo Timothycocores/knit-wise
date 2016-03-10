@@ -1,10 +1,23 @@
+body{
+	margin: 0;
+}
 .topBar{
 
-	margin-left: 175px;
+	margin-left: 100px;
 }
 
 /*
 Navigation*/
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
 
 ul {
 	text-align: center;
@@ -16,10 +29,12 @@ ul {
  	word-spacing: 20px;
  	margin-top: -35px;
  	margin-left: 300px;
+ 	margin-top: 10px;
 
 }
 
 li {
+	margin-top: -20px;
     display: inline;
     color: #f36546;
 }
@@ -27,4 +42,20 @@ li {
 a {
    color: white;
     text-decoration: none;
+}
+
+.panelOne{
+
+}
+
+.oneText{
+	margin-top: -400px;
+	text-align: center;
+}
+
+.panelTwo{
+
+	background-color: rgb(66, 69, 88);
+	height: 400px;
+	width: 100%
 }
