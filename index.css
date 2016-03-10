@@ -1,0 +1,30 @@
+.topBar{
+
+	margin-left: 175px;
+}
+
+/*
+Navigation*/
+
+ul {
+	text-align: center;
+    list-style-type: none;
+    padding: 4px;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+  list-style-type: none;
+ 	word-spacing: 20px;
+ 	margin-top: -35px;
+ 	margin-left: 300px;
+
+}
+
+li {
+    display: inline;
+    color: #f36546;
+}
+
+a {
+   color: white;
+    text-decoration: none;
+}
