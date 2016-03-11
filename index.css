@@ -85,3 +85,12 @@ a {
   color: rgb(225,117,108);
   text-align: center;
 }
+
+.needle{
+  margin-top: 15px;}
+
+  .panelThree{
+    height: 500px;
+    width: absolute;
+    background-color: rgb(248, 251, 254);
+  }
