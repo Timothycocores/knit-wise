@@ -84,6 +84,7 @@ a {
   margin-top: 100px;
   color: rgb(225,117,108);
   text-align: center;
+  padding-bottom: 30px;
 }
 
 .needle{
@@ -94,3 +95,14 @@ a {
     width: absolute;
     background-color: rgb(248, 251, 254);
   }
+
+.threeText{
+  color: rgb(53,64,81);
+  margin-top: 150px;
+}
+
+.panelFour{
+  background-color: rgb(201,118,108);
+  height: 300px;
+  width: 100%;
+}
