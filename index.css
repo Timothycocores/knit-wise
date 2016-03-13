@@ -92,7 +92,7 @@ a {
 
   .panelThree{
     height: 500px;
-    width: absolute;
+    width: 100%;
     background-color: rgb(248, 251, 254);
   }
 
@@ -102,7 +102,54 @@ a {
 }
 
 .panelFour{
-  background-color: rgb(201,118,108);
+  background-color: rgb(208,106,99);
   height: 300px;
   width: 100%;
+  color: white;
+  padding-top: 8px;
 }
+
+.buttonFour{
+  text-align: center;
+}
+
+.fourText{
+  text-align: center;
+  margin-top: 70px;
+}
+
+.yarn{
+  float: right;
+  margin-top: -150px;
+  padding-right: 375px;
+}
+
+.scissor{
+  float: left;
+  padding-left: 400px;
+  margin-top: -75px;
+}
+
+.kit{
+  margin-left: -20px;
+
+}
+
+.contact{
+  color: rgb(201,112,86);
+}
+
+.email{
+  color: white;
+}
+
+.socialButtons{
+  margin-top: 35px;
+}
+
+footer{
+  height: 100px;
+  width: 100%;
+  background-color: rgb(66, 69, 88);
+}
+
