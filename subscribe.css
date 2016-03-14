@@ -61,7 +61,10 @@ a {
 
 */
 
-
+.container{
+  text-align: center;
+  margin-right: 0px;
+}
 .skill{
   margin-top: 60px;
   text-align: center;
@@ -69,6 +72,10 @@ a {
 
 .beginner{
   text-align: center;
+}
+
+.col-sm-6{
+
 }
 
 /*
