@@ -19,6 +19,11 @@ body{
 	margin-left: 100px;
 }
 
+.logo{
+  margin-left: -900px;
+  margin-bottom: -30px;
+}
+
 /*
 Navigation*/
 
@@ -84,7 +89,7 @@ Footer Styling
 
 
 .socialButtons{
-  margin-top: 35px;
+  margin-top: -35px;
 }
 
 footer{
@@ -96,12 +101,21 @@ footer{
   background-color: rgb(66, 69, 88);
 }
 
+.logoOne{
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
 .contact{
   color: white;
+  margin-left: 80px;
+  margin-top: -60px;
+
 }
 
 .email{
   color: white;
+  margin-left: 80px;
   }
 
   #button{

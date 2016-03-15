@@ -95,12 +95,21 @@ footer{
   background-color: rgb(66, 69, 88);
 }
 
+.logoOne{
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
 .contact{
   color: white;
+  margin-left: 80px;
+  margin-top: -60px;
+
 }
 
 .email{
   color: white;
+  margin-left: 80px;
   }
 
   #button{
