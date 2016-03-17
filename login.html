@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Cart</title>
+	<title>Log In</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-  <link rel="stylesheet" type="text/css" href="cart.css">
+  <link rel="stylesheet" type="text/css" href="login.css">
 </head>
 <body>
 <body>
@@ -25,13 +24,34 @@
 <div class="divider">
 </div>
 <div class="cartTitle">
-<h3>CHECK OUT</h3>
+<h3>Account Login</h3>
 </div>
-<div class="boxImage">
-<img src="images/box.png">
+<div class="logon">
+<h5>Log in to change your subscription or update your shipping/billing information.</h5>
 </div>
-<div class="boxText">
-<h3>Order Summary</h3>
+<div class="subscribe">
+<h5>Don't have an account? <a href="subscribe.html">Subcribe</a>!</h5>
+</div>
+<div class="container">
+  <div class="login">
+    <form method="post" action="">
+      <p><input type="text" name="login" value="" placeholder="Username or Email"></p>
+      <p><input type="password" name="password" value="" placeholder="Password"></p>
+      <p class="remember_me">
+        <label>
+         <label>
+          <input type="checkbox" name="remember_me" id="remember_me">
+          Remember me on this computer
+        </label>
+        </label>
+      </p>
+      <p class="submit"><input type="submit" name="commit" value="Login"></p>
+    </form>
+  </div>
+ 
+  <div class="loginHelp">
+    <p>Forgot your password? <a href="#">Click here to reset it</a>.</p>
+  </div>
 </div>
 <footer>
 <div class="logoOne">

@@ -16,8 +16,14 @@ body{
 
 .topBar{
 
-	margin-left: 100px;
+  margin-left: 100px;
 }
+
+.logo{
+  margin-left: -900px;
+  margin-bottom: -30px;
+}
+
 
 /*
 Navigation*/
@@ -77,6 +83,17 @@ a {
 
 */
 
+
+.boxImage{
+  margin-left: 100px;
+  margin-right: -30px;
+}
+
+.boxText{
+margin-left: 120px;
+
+}
+
 /*
 Footer Styling 
 */
@@ -84,6 +101,7 @@ Footer Styling
 
 .socialButtons{
   margin-top: -35px;
+  margin-left: -75px;
 }
 
 footer{

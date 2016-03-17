@@ -17,11 +17,12 @@ body{
 .topBar{
 
 	margin-left: 100px;
+  margin-top: 15px;
 }
 
 .logo{
   margin-left: -900px;
-  margin-bottom: -15px;
+  margin-bottom: -25px;
 }
 
 /*
@@ -47,12 +48,13 @@ ul {
  	word-spacing: 20px;
  	margin-top: -35px;
  	margin-left: 300px;
- 	margin-top: 10px;
+ 	margin-top: -10px;
 
 }
 
 li {
 	margin-top: -20px;
+  margin-bottom: -40px;
     display: inline;
     color: #f36546;
 }
@@ -63,12 +65,13 @@ a {
 }
 
 .panelOne{
-
+letter-spacing: 2px;
 }
 
 .oneText{
 	margin-top: -500px;
 	text-align: center;
+  letter-spacing: 2px;
 }
 
 .panelTwo{
@@ -83,6 +86,7 @@ a {
   margin-top: -200px;
   text-align: center;
   color: white;
+  letter-spacing: 2px;
 }
 
 .col-md-4{
@@ -161,9 +165,8 @@ a {
 /*
 Footer Styling 
 */
-
 .socialButtons{
-
+  margin-top: -40px;
 }
 
 footer{
