@@ -114,7 +114,7 @@ footer{
 
 .logoOne{
   margin-top: 16px;
-  margin-left: 20px;
+  margin-left: -1000px;
 }
 
 .contact{
@@ -140,22 +140,9 @@ footer{
 
   .rightSide{
     text-align: center;
-    background-color: #F0F0F0;
-    height: 400px;
-    width: 700px;
-    margin-left: 650px;
-    margin-top: -325px;
-
+    margin-left: 300px;
+    margin-top: -350px;
   }
-
-  .col-sm-6{
-    margin-right: -100px;
-  }
-
-.col-sm-4{
-  margin-right: -50px;
-}
-
 /* CSS for Credit Card Payment form */
 .credit-card-box .panel-title {
     display: inline;
@@ -199,4 +186,8 @@ footer{
 }
 .customwidth{
   max-width: 480px
+}
+
+.container{
+  margin-right: -300px;
 }
