@@ -20,6 +20,7 @@ body{
 }
 
 .logo{
+  margin-top: 20px;
   margin-left: -900px;
   margin-bottom: -30px;
 }
@@ -45,8 +46,8 @@ ul {
     font-size: 16px;
   list-style-type: none;
   word-spacing: 20px;
-  margin-top: -35px;
-  margin-left: 300px;
+  margin-top: -15px;
+  margin-left: 900px;
   margin-top: 10px;
 
 }
@@ -55,6 +56,7 @@ li {
   margin-top: -20px;
   display: inline;
   color: #f36546;
+
 }
 
 a {
@@ -113,20 +115,21 @@ footer{
 }
 
 .logoOne{
-  margin-top: 16px;
-  margin-left: -1000px;
+  margin-top: 25px;
+  margin-left: -1350px;
 }
 
 .contact{
   color: white;
-  margin-left: 80px;
-  margin-top: -60px;
+  margin-left: -455px;
+  margin-top: -55px;
 
 }
 
 .email{
   color: white;
-  margin-left: 80px;
+  margin-left: -400px;
+  list-style-type: none;
   }
 
   #button{
